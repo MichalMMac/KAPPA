@@ -287,7 +287,7 @@ Instructions for creating a Kandji API token [can be found here](https://support
   },
   "use_recipe_map" : false,
   "zz_defaults" : {
-    "auto_create_new_app" : true,
+    "auto_create_app" : true,
     "dry_run" : false,
     "dynamic_lookup_fallback" : false,
     "new_app_naming" : "APPNAME (AutoPkg)",
